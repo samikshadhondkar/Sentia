@@ -16,8 +16,8 @@ import {
 } from "react-native";
 
 // ─── YOUR API KEYS ────────────────────────────────────────────────────────────
-const GROQ_API_KEY = "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";
-const OPENROUTER_API_KEY = "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";
+const GROQ_API_KEY = "Your API KEY";
+const OPENROUTER_API_KEY = "Your API KEY";
 // ─────────────────────────────────────────────────────────────────────────────
 
 const SCAN_INTERVAL_MS = 1000;
